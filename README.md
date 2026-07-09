@@ -1,11 +1,5 @@
 # ⚡ Muhamed | Python & Cybersecurity Developer
 
-<p align="left">
-  <img src="https://shields.io" alt="Location">
-  <img src="https://shields.io" alt="Experience">
-  <img src="https://shields.io" alt="Focus">
-</p>
-
 I am a self‑taught developer building secure, reliable Python tools. My background combines strong development foundations with two years of hands‑on defensive and offensive cybersecurity experience.
 
 ---
