@@ -1,15 +1,38 @@
 ### Hey there 👋
+# ⚡ Muhamed | Python & Cybersecurity Developer
 
-I'm Muhamed, a self‑taught developer from Kosovo with 2 years of hands‑on cybersecurity experience.  
-I build secure, reliable Python tools.
+<p align="left">
+  <img src="https://shields.io" alt="Location">
+  <img src="https://shields.io" alt="Experience">
+  <img src="https://shields.io" alt="Focus">
+</p>
+
+I am a self‑taught developer building secure, reliable Python tools. My background combines strong development foundations with two years of hands‑on defensive and offensive cybersecurity experience.
 
 ---
 
-**Skills**
+### 💻 Tech Stack & Tooling
 
-- Python, CLI development, argparse, JSON, modular code, input validation, audit logging
-- Web security: OWASP Top 10 vulnerabilities
-- Wi‑Fi security, network attacks, traffic analysis
-- Linux (Kali, Arch), system administration
-- Networking: TCP/IP, DNS, firewalls
-- Git, Bash
+| Category | Technologies & Concepts |
+| :--- | :--- |
+| **Languages & Scripting** | `Python` • `Bash` • `SQL` • `JSON` |
+| **Python Ecosystem** | `argparse` • Modular Code • Input Validation • Audit Logging |
+| **Security & Pentesting** | OWASP Top 10 • Wi‑Fi Security • Network Attacks • Traffic Analysis |
+| **Infrastructure & OS** | Linux (`Kali`, `Arch`) • System Administration • Firewalls |
+| **Networking** | TCP/IP • DNS • Network Protocols |
+| **Tools & Workflow** | `Git` • Command Line Interfaces (CLI) |
+
+---
+
+### ⚙️ What I Do
+* 🔒 **Secure Coding:** Writing robust Python applications with strict input validation to prevent exploits.
+* 🛠️ **CLI Tooling:** Creating efficient, production-ready command-line tools from scratch.
+* 🌐 **Network Analysis:** Auditing wireless networks and dissecting traffic to harden system security.
+
+---
+
+### 📬 Let's Connect
+
+<p align="left">
+  <a href="unnamedd.063@gmail.com"><img src="https://shields.io" alt="Email"></a>
+</p>
