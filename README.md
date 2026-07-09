@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hey there 👋
 
-<!--
-**4ynow/4ynow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Muhamed, a self‑taught developer from Kosovo with 2 years of hands‑on cybersecurity experience.  
+I build secure, reliable Python tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills**
+
+- Python, CLI development, argparse, JSON, modular code, input validation, audit logging
+- Web security: OWASP Top 10 vulnerabilities
+- Wi‑Fi security, network attacks, traffic analysis
+- Linux (Kali, Arch), system administration
+- Networking: TCP/IP, DNS, firewalls
+- Git, Bash
