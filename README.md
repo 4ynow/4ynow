@@ -21,11 +21,3 @@ I am a self‑taught developer building secure, reliable Python tools. My backgr
 * 🔒 **Secure Coding:** Writing robust Python applications with strict input validation to prevent exploits.
 * 🛠️ **CLI Tooling:** Creating efficient, production-ready command-line tools from scratch.
 * 🌐 **Network Analysis:** Auditing wireless networks and dissecting traffic to harden system security.
-
----
-
-### 📬 Let's Connect
-
-<p align="left">
-  <a href="unnamedd.063@gmail.com"><img src="https://shields.io" alt="Email"></a>
-</p>
