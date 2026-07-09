@@ -1,4 +1,3 @@
-### Hey there 👋
 # ⚡ Muhamed | Python & Cybersecurity Developer
 
 <p align="left">
