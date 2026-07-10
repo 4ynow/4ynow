@@ -11,7 +11,7 @@ I am a self‑taught developer building secure, reliable Python tools. My backgr
 | **Languages & Scripting** | `Python` • `Bash` • `SQL` • `JS`• `HTML`• `CSS`• `JSON` |
 | **Python Ecosystem** | `argparse` • Modular Code • Input Validation • Audit Logging |
 | **Security & Pentesting** | OWASP Top 10 • Wi‑Fi Security • Network Attacks • Traffic Analysis |
-| **Infrastructure & OS** | Linux (`Kali`, `Arch`) • System Administration • Firewalls |
+| **Infrastructure & OS** | Linux • System Administration • Firewalls |
 | **Networking** | TCP/IP • DNS • Network Protocols |
 | **Tools & Workflow** | `Git` • Command Line Interfaces (CLI) |
 
