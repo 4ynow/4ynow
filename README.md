@@ -18,6 +18,10 @@ I am a self‑taught developer building secure, reliable Python tools. My backgr
 ---
 
 ### ⚙️ What I Do
-* 🔒 **Secure Coding:** Writing robust Python applications with strict input validation to prevent exploits.
-* 🛠️ **CLI Tooling:** Creating efficient, production-ready command-line tools from scratch.
-* 🌐 **Network Analysis:** Auditing wireless networks and dissecting traffic to harden system security.
+
+- **Cybersecurity & Ethical Hacking:** Web app testing, Wi‑Fi auditing, general ethical hacking, and strong recon skills.
+- **SOC Analyst Skills:** Log analysis, alert triage, monitoring, incident response basics, and SIEM concepts.
+- **Networking & Systems:** Protocols, traffic analysis, Linux/Windows troubleshooting, hardware/software concepts.
+- **Tool Building:** Python and web tools for security, automation, and productivity (Python servers, CLI, browser apps etc).
+- **Frontend & Web:** HTML, CSS, JavaScript — building interactive apps and learning DOM security.
+- **IT Support:** Help desk fundamentals, user troubleshooting, ready for help desk roles.
