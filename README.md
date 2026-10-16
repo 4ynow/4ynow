@@ -8,12 +8,12 @@ I am a self‑taught developer building secure, reliable Python tools. My backgr
 
 | Category | Technologies & Concepts |
 | :--- | :--- |
-| **Languages & Scripting** | `Python` • `Bash` • `SQL` • `JS`• `HTML`• `CSS`• `JSON` |
-| **Python Ecosystem** | `argparse` • Modular Code • Input Validation • Audit Logging |
-| **Security & Pentesting** | OWASP Top 10 • Wi‑Fi Security • Network Attacks • Traffic Analysis |
-| **Infrastructure & OS** | Linux • System Administration • Firewalls |
-| **Networking** | TCP/IP • DNS • Network Protocols |
-| **Tools & Workflow** | `Git` • Command Line Interfaces (CLI) |
+| **Languages & Scripting** | `Python` • `Bash` • `SQL` • `JavaScript` • `HTML` • `CSS` • `JSON` |
+| **Cybersecurity & Ethical Hacking** | Wireless Security • Web Security • Traffic Analysis • Reconnaissance • TryHackMe: Top 50 Kosovo |
+| **SOC Analyst Skills** | Log Analysis • Alert Triage • Monitoring • Incident Response Basics • SIEM Concepts |
+| **Infrastructure & OS** | Linux • Windows • System Administration • Firewalls |
+| **Networking** | Networking Fundamentals • Protocols • Traffic Analysis • Troubleshooting |
+| **Tools & Workflow** | `Git` • CLI • Security Tooling • Recon & Analysis Tools |
 
 ---
 
