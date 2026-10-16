@@ -1,6 +1,6 @@
 # ⚡ Muhamed | JS, Python & Cybersecurity Developer
 
-I am a self‑taught developer building secure, reliable Python tools. My background combines strong development foundations with two years of hands‑on defensive and offensive cybersecurity experience.
+I am a self‑taught developer building secure, reliable tools and programs. My background combines strong development foundations with more than three years of hands‑on defensive and offensive cybersecurity experience.
 
 ---
 
