@@ -9,7 +9,7 @@ I am a self‑taught developer building secure, reliable tools and programs. My 
 | Category | Technologies & Concepts |
 | :--- | :--- |
 | **Languages & Scripting** | `Python` • `Bash` • `SQL` • `JavaScript` • `HTML` • `CSS` • `PHP` • `JSON` |
-| **Cybersecurity** | Network Security • Web Security • Traffic Analysis • Reconnaissance • TryHackMe: Top 50 Kosovo |
+| **Cybersecurity** | Network Security • Web Security • Traffic Analysis • Reconnaissance |
 | **SOC Analyst Skills** | Log Analysis • Alert Triage • Monitoring • Incident Response Basics • SIEM Concepts |
 | **Infrastructure & OS** | Linux • Windows • System Administration • Firewalls |
 | **Networking** | Networking Fundamentals • Protocols • Traffic Analysis • Troubleshooting |
